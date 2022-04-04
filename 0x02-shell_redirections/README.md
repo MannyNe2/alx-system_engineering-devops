@@ -1,0 +1,1 @@
+Readme within shell_redirections
